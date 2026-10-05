@@ -1,6 +1,10 @@
-body{background:#fff;color:#000;font-family:"MS PGothic",sans-serif;font-size:14px}.container{width:800px;margin:auto}table{width:100%}.menu{width:180px;vertical-align:top}.main{padding-left:20px}a{color:#00f}
+body{margin:0;background:#fff;color:#000;font-family:"MS PGothic","ＭＳ Ｐゴシック",sans-serif;font-size:14px;}#wrapper{width:960px;margin:0 auto;}#header{text-align:center;padding:15px;}#main{display:flex;}#menu{width:180px;border-right:1px solid #999;padding:10px;}#menu a{color:#0000cc;text-decoration:none;}#menu a:hover{text-decoration:underline;}#content{flex:1;padding:20px;}hr{border:none;border-top:1px solid #ccc;}table{border-collapse:collapse;}td{padding:4px 10px 4px 0}.footer{text-align:center;margin:20px;font-size:12px;}@media(max-width:768px){#wrapper{width:100%;}#main{flex-direction:column;}#menu{width:auto;border-right:none;border-bottom:1px solid #999;}}
 
-.topimg {
-  width: 50%;
-  height: 50%;
+.chocolate {
+color: ##5C4033;
 }
+ 
+.mint {
+color: #98FFCC;
+}
+ 
